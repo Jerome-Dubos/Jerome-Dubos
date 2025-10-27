@@ -99,14 +99,6 @@ Amélioration du référencement naturel et de la visibilité en ligne de vos pr
 
 ## 🎯 Projets Récents
 
-### ✨ Portfolio Personnel - [Dubos Web Services](https://www.duboswebservices.fr "Ouvrir dans un nouvel onglet" target="_blank" rel="noopener noreferrer")
-
-**Technologies :** React, Framer Motion, GSAP, Three.js, CSS3
-
-- Portfolio sophistiqué avec animations fluides et effets de particules spatiales
-- Design responsive avec palette de couleurs dorées luxueuse
-- Panel d'administration intégré pour la gestion du contenu
-
 ### 📊 BLC Data Services
 
 **Technologies :** React, SEO, Front-End
@@ -129,25 +121,25 @@ Amélioration du référencement naturel et de la visibilité en ligne de vos pr
 
 **Technologies :** React, NodeJS, MongoDB
 
-- Site vitrine pour école de langue et soutien scolaire à Strasbourg
+- Site pour une école de langue et soutien scolaire à Strasbourg
 - Interface moderne et éducative pour parents et élèves
-- Système de réservation et gestion des cours
+- Gestion des ressources et élèves pour l'équipe pédagogique
 - Design responsive optimisé pour tous les appareils
 
 ---
 
-## 🎨 Design Philosophy
+## 🎨 Ma philosphie
 
 Mon approche du développement web s'inspire de mon expérience dans l'hôtellerie de luxe :
 
-- **Attention aux détails** : Chaque pixel compte, comme chaque grain de sel dans un cocktail parfait
+- **Attention aux détails** : Chaque pixel compte, comme chaque ingrédient dans un cocktail parfait
 - **Expérience utilisateur** : L'utilisateur doit se sentir accueilli, comme dans un hôtel 5 étoiles
 - **Élégance et simplicité** : Un design épuré qui met en valeur le contenu
 - **Performance** : Un site rapide et fluide, comme un service impeccable
 
 ---
 
-## 🌟 Citations Inspirantes
+## 🌟 Vous pouvez me citer
 
 > _"Je code vos rêves (et débogue vos cauchemars) ✨"_
 
