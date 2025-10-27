@@ -77,7 +77,7 @@ Amélioration du référencement naturel et de la visibilité en ligne de vos pr
 
 ---
 
-## 🌟 Mes Valeurs
+## 🌟 Mes Statistiques
 
 <table>
 <tr>
