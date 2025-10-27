@@ -2,9 +2,9 @@
 
 ### 🌟 Développeur Web Full Stack - Spécialiste React
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-212121?style=for-the-badge&logo=react&logoColor=#d4b15f)](https://www.duboswebservices.fr)
-[![Instagram](https://img.shields.io/badge/Instagram-@duboswebservices-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duboswebservices/)
-[![Email](https://img.shields.io/badge/Email-Contactez%20moi-d4b15f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@duboswebservices.fr)
+<a href="https://www.duboswebservices.fr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-212121?style=for-the-badge&logo=react&logoColor=#d4b15f" alt="Portfolio"></a>
+<a href="https://www.instagram.com/duboswebservices/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-@duboswebservices-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:contact@duboswebservices.fr"><img src="https://img.shields.io/badge/Email-Contactez%20moi-d4b15f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 _"Je mélange désormais du code plutôt que des cocktails... mais la recette du succès reste la même !"_ 🍸➡️💻
 
@@ -99,7 +99,7 @@ Amélioration du référencement naturel et de la visibilité en ligne de vos pr
 
 ## 🎯 Projets Récents
 
-### ✨ Portfolio Personnel - [Dubos Web Services](https://www.duboswebservices.fr)
+### ✨ Portfolio Personnel - [Dubos Web Services](https://www.duboswebservices.fr "Ouvrir dans un nouvel onglet" target="_blank" rel="noopener noreferrer")
 
 **Technologies :** React, Framer Motion, GSAP, Three.js, CSS3
 
@@ -165,9 +165,9 @@ Mon approche du développement web s'inspire de mon expérience dans l'hôteller
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-212121?style=for-the-badge&logo=react&logoColor=#d4b15f)](https://www.duboswebservices.fr)
-[![Instagram](https://img.shields.io/badge/Instagram-@duboswebservices-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duboswebservices/)
-[![Email](https://img.shields.io/badge/Email-Contactez%20moi-d4b15f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@duboswebservices.fr)
+<a href="https://www.duboswebservices.fr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-212121?style=for-the-badge&logo=react&logoColor=#d4b15f" alt="Portfolio"></a>
+<a href="https://www.instagram.com/duboswebservices/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-@duboswebservices-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:contact@duboswebservices.fr"><img src="https://img.shields.io/badge/Email-Contactez%20moi-d4b15f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
