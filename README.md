@@ -26,7 +26,7 @@ Mon parcours dans l'hôtellerie m'a apporté des compétences précieuses : **cr
 
 ## 🛠️ Technologies & Compétences
 
-### Frontend - Niveau Avancé
+### Frontend
 
 ![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
