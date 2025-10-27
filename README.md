@@ -2,9 +2,9 @@
 
 ### 🌟 Développeur Web Full Stack - Spécialiste React
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-212121?style=for-the-badge&logo=react&logoColor=#d4b15f)](https://jerome-dubos-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jérôme%20DUBOS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerome-dubos)
-[![Email](https://img.shields.io/badge/Email-Contactez%20moi-d4b15f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerome.dubos@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-212121?style=for-the-badge&logo=react&logoColor=#d4b15f)](https://www.duboswebservices.fr)
+[![Instagram](https://img.shields.io/badge/Instagram-@duboswebservices-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duboswebservices/)
+[![Email](https://img.shields.io/badge/Email-Contactez%20moi-d4b15f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@duboswebservices.fr)
 
 _"Je mélange désormais du code plutôt que des cocktails... mais la recette du succès reste la même !"_ 🍸➡️💻
 
@@ -14,15 +14,19 @@ _"Je mélange désormais du code plutôt que des cocktails... mais la recette du
 
 ## 🚀 À propos de moi
 
-Après **10 ans d'expérience dans l'hôtellerie de luxe** et le monde des bars à cocktails, j'ai choisi de me reconvertir dans le **développement web**. Cette transition représente pour moi une nouvelle aventure professionnelle, mêlant ma passion pour la création et mon désir d'équilibre entre vie professionnelle et familiale.
+**27 ans** | **Schiltigheim, Strasbourg** | **Papa de 2 enfants** 👨‍👧‍👦
+
+Après **10 ans d'expérience comme barman spécialisé cocktails** dans l'hôtellerie de luxe, j'ai choisi de me reconvertir dans le **développement web** depuis **avril 2024**. Cette transition représente pour moi une nouvelle aventure professionnelle, mêlant ma passion pour la création et mon désir d'équilibre entre vie professionnelle et familiale.
 
 Mon parcours dans l'hôtellerie m'a apporté des compétences précieuses : **créativité**, **rigueur**, et **capacité d'adaptation**. Ces qualités, combinées à ma passion pour les nouvelles technologies, me permettent d'aborder le développement web avec un regard unique et innovant.
+
+**Quand je ne code pas** : Je crée des cocktails originaux, je joue aux jeux vidéo, et je dévore des livres ! 📚🎮🍸
 
 ---
 
 ## 🛠️ Technologies & Compétences
 
-### Frontend
+### Frontend - Niveau Avancé
 
 ![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -95,7 +99,7 @@ Amélioration du référencement naturel et de la visibilité en ligne de vos pr
 
 ## 🎯 Projets Récents
 
-### ✨ Portfolio Personnel
+### ✨ Portfolio Personnel - [Dubos Web Services](https://www.duboswebservices.fr)
 
 **Technologies :** React, Framer Motion, GSAP, Three.js, CSS3
 
@@ -103,9 +107,32 @@ Amélioration du référencement naturel et de la visibilité en ligne de vos pr
 - Design responsive avec palette de couleurs dorées luxueuse
 - Panel d'administration intégré pour la gestion du contenu
 
-### 🚀 [Autres projets à venir...]
+### 📊 BLC Data Services
 
-_Découvrez bientôt mes derniers projets sur mon portfolio !_
+**Technologies :** React, SEO, Front-End
+
+- Refonte du site vitrine pour la société de Data Analysts BLC Data Services
+- Refonte graphique et optimisation SEO complète
+- Intégration de Dashboard BI visualisables directement sur le site
+- Interface moderne avec navigation intuitive
+
+### 🍰 Chez les doudous
+
+**Technologies :** React, NodeJS, MongoDB
+
+- Refonte totale du site vitrine du traiteur Chez les doudous
+- Design moderne et appétissant mettant en valeur les créations culinaires
+- Interface utilisateur intuitive avec galerie photos
+- Intégration complète frontend/backend
+
+### 🎓 Bon Cours (En cours)
+
+**Technologies :** React, NodeJS, MongoDB
+
+- Site vitrine pour école de langue et soutien scolaire à Strasbourg
+- Interface moderne et éducative pour parents et élèves
+- Système de réservation et gestion des cours
+- Design responsive optimisé pour tous les appareils
 
 ---
 
@@ -122,9 +149,9 @@ Mon approche du développement web s'inspire de mon expérience dans l'hôteller
 
 ## 🌟 Citations Inspirantes
 
-> _"Votre présence digitale, sans prise de tête 🚀"_
-
 > _"Je code vos rêves (et débogue vos cauchemars) ✨"_
+
+> _"Votre présence digitale, sans prise de tête 🚀"_
 
 > _"Du pixel au code, je donne vie à vos idées 🎨"_
 
@@ -138,9 +165,9 @@ Mon approche du développement web s'inspire de mon expérience dans l'hôteller
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-212121?style=for-the-badge&logo=react&logoColor=#d4b15f)](https://jerome-dubos-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jérôme%20DUBOS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerome-dubos)
-[![Email](https://img.shields.io/badge/Email-Contactez%20moi-d4b15f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerome.dubos@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-212121?style=for-the-badge&logo=react&logoColor=#d4b15f)](https://www.duboswebservices.fr)
+[![Instagram](https://img.shields.io/badge/Instagram-@duboswebservices-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duboswebservices/)
+[![Email](https://img.shields.io/badge/Email-Contactez%20moi-d4b15f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@duboswebservices.fr)
 
 </div>
 
@@ -153,6 +180,7 @@ Mon approche du développement web s'inspire de mon expérience dans l'hôteller
 _"Du service client d'exception à l'excellence technique, je mets mon savoir-faire au service de vos ambitions digitales."_
 
 **Jérôme DUBOS** - _Développeur Web Full Stack_
+📍 **Schiltigheim, Strasbourg** | 👨‍👧‍👦 **Papa de 2 enfants** | 🍸 **Ex-barman passionné**
 
 ---
 
